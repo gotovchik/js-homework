@@ -1,0 +1,11 @@
+.message {
+  width: 150px;
+  padding: 20px;
+  background: lightgoldenrodyellow;
+  border: 1px solid orange;
+  visibility: hidden;
+}
+
+.error {
+  border: 0.3rem solid red;
+}
